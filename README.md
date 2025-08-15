@@ -1,4 +1,3 @@
-# streamlit_smart_reatil_analysis_AI
 # 🚀 Smart Retail AI Analyst
 
 An intelligent, multi-page Streamlit web application that provides both standard business intelligence dashboards and dynamic, AI-driven exploratory data analysis for retail sales data.
