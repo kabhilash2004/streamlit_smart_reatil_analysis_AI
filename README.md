@@ -3,8 +3,7 @@
 
 An intelligent, multi-page Streamlit web application that provides both standard business intelligence dashboards and dynamic, AI-driven exploratory data analysis for retail sales data.
 
-![Smart Retail AI Analyst](https://i.imgur.com/your-app-image.png) 
-*(**Note:** Replace this with a screenshot of your app)*
+
 
 ## Overview
 
