@@ -1,0 +1,501 @@
+BillNo,Itemname,Quantity,Date,Price,CustomerID,Country,State
+581589,Parle-G Biscuits (100g),9,05-03-2025 12:55,9.78,15801,India,Tamil Nadu
+581589,Fortune Sunlite Oil (1L),1,05-03-2025 12:55,142.99,15801,India,Tamil Nadu
+581590,Britannia Bread (400g),1,16-10-2024 07:12,41.59,17639,India,Uttar Pradesh
+581590,Everest Garam Masala (50g),3,16-10-2024 07:12,75.69,17639,India,Uttar Pradesh
+581590,Fortune Sunlite Oil (1L),2,16-10-2024 07:12,151.77,17639,India,Uttar Pradesh
+581590,MDH Red Chilli Powder (100g),4,16-10-2024 07:12,62.34,17639,India,Uttar Pradesh
+581591,Aashirvaad Atta (5kg),2,23-03-2025 12:44,244.29,16040,India,Kerala
+581591,Britannia Bread (400g),1,23-03-2025 12:44,40.03,16040,India,Kerala
+581592,MDH Red Chilli Powder (100g),3,12-05-2025 05:08,57.46,15528,India,Karnataka
+581592,Aashirvaad Atta (5kg),2,12-05-2025 05:08,241.97,15528,India,Karnataka
+581592,Amul Milk (500ml),1,12-05-2025 05:08,28.05,15528,India,Karnataka
+581592,Tomato (1kg),3,12-05-2025 05:08,49.59,15528,India,Karnataka
+581592,Parle-G Biscuits (100g),9,12-05-2025 05:08,10.5,15528,India,Karnataka
+581592,Bru Instant Coffee (50g),1,12-05-2025 05:08,142.9,15528,India,Karnataka
+581593,Britannia Bread (400g),2,16-07-2025 10:07,39.2,17273,India,Uttar Pradesh
+581593,Toor Dal (1kg),4,16-07-2025 10:07,146.21,17273,India,Uttar Pradesh
+581593,Toor Dal (1kg),2,16-07-2025 10:07,146.97,17273,India,Uttar Pradesh
+581593,Tata Tea Gold (250g),1,16-07-2025 10:07,159.44,17273,India,Uttar Pradesh
+581593,Maggi 2-Minute Noodles,3,16-07-2025 10:07,14.18,17273,India,Uttar Pradesh
+581593,Amul Milk (500ml),4,16-07-2025 10:07,26.93,17273,India,Uttar Pradesh
+581594,Tata Salt (1kg),1,12-03-2025 01:57,24.04,17565,India,Telangana
+581594,Basmati Rice (1kg),3,12-03-2025 01:57,122.08,17565,India,Telangana
+581594,Amul Milk (500ml),5,12-03-2025 01:57,27.44,17565,India,Telangana
+581594,Dairy Milk Chocolate,5,12-03-2025 01:57,43.72,17565,India,Telangana
+581594,Aashirvaad Atta (5kg),2,12-03-2025 01:57,258.24,17565,India,Telangana
+581594,Dairy Milk Chocolate,3,12-03-2025 01:57,46.41,17565,India,Telangana
+581594,Aashirvaad Atta (5kg),2,12-03-2025 01:57,254.95,17565,India,Telangana
+581594,Amul Milk (500ml),6,12-03-2025 01:57,26.89,17565,India,Telangana
+581595,Basmati Rice (1kg),2,14-04-2025 02:22,118.03,15952,India,Tamil Nadu
+581595,Basmati Rice (1kg),2,14-04-2025 02:22,125.87,15952,India,Tamil Nadu
+581596,Potato (1kg),5,13-07-2025 16:10,35.51,16186,India,West Bengal
+581596,Tata Salt (1kg),2,13-07-2025 16:10,23.77,16186,India,West Bengal
+581596,Everest Garam Masala (50g),3,13-07-2025 16:10,74.77,16186,India,West Bengal
+581596,Tomato (1kg),2,13-07-2025 16:10,50.5,16186,India,West Bengal
+581597,Britannia Bread (400g),2,19-11-2024 09:03,38.08,17565,India,Karnataka
+581598,Tata Tea Gold (250g),1,07-12-2024 07:00,163.76,16665,India,Tamil Nadu
+581599,Onion (1kg),1,09-08-2025 23:36,39.33,13135,India,Gujarat
+581599,Parle-G Biscuits (100g),10,09-08-2025 23:36,9.76,13135,India,Gujarat
+581599,Basmati Rice (1kg),1,09-08-2025 23:36,117.5,13135,India,Gujarat
+581599,Aashirvaad Atta (5kg),2,09-08-2025 23:36,242.21,13135,India,Gujarat
+581600,MDH Turmeric Powder (100g),5,20-06-2025 01:17,30.61,16375,India,West Bengal
+581600,Onion (1kg),5,20-06-2025 01:17,39,16375,India,West Bengal
+581600,Onion (1kg),1,20-06-2025 01:17,38.3,16375,India,West Bengal
+581600,Parle-G Biscuits (100g),4,20-06-2025 01:17,9.53,16375,India,West Bengal
+581600,Tata Salt (1kg),1,20-06-2025 01:17,25.31,16375,India,West Bengal
+581601,Everest Garam Masala (50g),3,26-07-2025 02:05,71.52,12190,India,Telangana
+581601,Amul Milk (500ml),3,26-07-2025 02:05,28.22,12190,India,Telangana
+581601,Parle-G Biscuits (100g),1,26-07-2025 02:05,9.94,12190,India,Telangana
+581602,Dairy Milk Chocolate,3,23-08-2024 22:26,43.97,12190,India,West Bengal
+581602,Amul Butter (100g),5,23-08-2024 22:26,52.88,12190,India,West Bengal
+581602,Potato (1kg),3,23-08-2024 22:26,36.54,12190,India,West Bengal
+581602,Dairy Milk Chocolate,5,23-08-2024 22:26,44.98,12190,India,West Bengal
+581602,MDH Turmeric Powder (100g),2,23-08-2024 22:26,28.71,12190,India,West Bengal
+581602,Tomato (1kg),1,23-08-2024 22:26,50.29,12190,India,West Bengal
+581602,Britannia Bread (400g),3,23-08-2024 22:26,40,12190,India,West Bengal
+581602,MDH Turmeric Powder (100g),4,23-08-2024 22:26,31.09,12190,India,West Bengal
+581602,Parle-G Biscuits (100g),3,23-08-2024 22:26,9.9,12190,India,West Bengal
+581603,Everest Garam Masala (50g),2,21-07-2025 13:18,72.26,16612,India,West Bengal
+581603,Maggi 2-Minute Noodles,5,21-07-2025 13:18,14.28,16612,India,West Bengal
+581603,Everest Garam Masala (50g),1,21-07-2025 13:18,73.74,16612,India,West Bengal
+581604,MDH Turmeric Powder (100g),2,09-01-2025 06:53,30.31,17886,India,Maharashtra
+581604,Basmati Rice (1kg),3,09-01-2025 06:53,118.12,17886,India,Maharashtra
+581604,Potato (1kg),5,09-01-2025 06:53,34.37,17886,India,Maharashtra
+581605,Potato (1kg),4,15-01-2025 22:35,35.55,12648,India,Tamil Nadu
+581606,Basmati Rice (1kg),3,13-02-2025 04:56,117.82,13135,India,West Bengal
+581607,Basmati Rice (1kg),2,16-10-2024 11:37,124.36,12375,India,Kerala
+581608,Tata Tea Gold (250g),2,18-07-2025 03:29,158.37,13760,India,Maharashtra
+581608,Moong Dal (1kg),2,18-07-2025 03:29,137.59,13760,India,Maharashtra
+581608,Tomato (1kg),1,18-07-2025 03:29,52.41,13760,India,Maharashtra
+581608,Fortune Sunlite Oil (1L),2,18-07-2025 03:29,147.1,13760,India,Maharashtra
+581608,Toor Dal (1kg),2,18-07-2025 03:29,152.16,13760,India,Maharashtra
+581608,Tomato (1kg),1,18-07-2025 03:29,48.87,13760,India,Maharashtra
+581608,Toor Dal (1kg),3,18-07-2025 03:29,144.11,13760,India,Maharashtra
+581608,Tata Salt (1kg),3,18-07-2025 03:29,25.53,13760,India,Maharashtra
+581608,Bru Instant Coffee (50g),2,18-07-2025 03:29,144.53,13760,India,Maharashtra
+581608,Bru Instant Coffee (50g),2,18-07-2025 03:29,142.94,13760,India,Maharashtra
+581608,Bru Instant Coffee (50g),2,18-07-2025 03:29,153.47,13760,India,Maharashtra
+581608,Tomato (1kg),4,18-07-2025 03:29,48.22,13760,India,Maharashtra
+581609,MDH Red Chilli Powder (100g),2,02-12-2024 09:30,57.99,14633,India,Tamil Nadu
+581609,Maggi 2-Minute Noodles,6,02-12-2024 09:30,14.3,14633,India,Tamil Nadu
+581610,Toor Dal (1kg),3,13-08-2024 18:07,150.82,14033,India,Kerala
+581610,Fortune Sunlite Oil (1L),1,13-08-2024 18:07,151.67,14033,India,Kerala
+581610,Britannia Bread (400g),2,13-08-2024 18:07,39.3,14033,India,Kerala
+581610,MDH Red Chilli Powder (100g),1,13-08-2024 18:07,59.37,14033,India,Kerala
+581611,Amul Butter (100g),3,27-08-2024 11:07,57.29,15595,India,Gujarat
+581611,Amul Butter (100g),5,27-08-2024 11:07,54.41,15595,India,Gujarat
+581611,Tata Salt (1kg),1,27-08-2024 11:07,23.92,15595,India,Gujarat
+581611,Aashirvaad Atta (5kg),2,27-08-2024 11:07,260.87,15595,India,Gujarat
+581611,Fortune Sunlite Oil (1L),1,27-08-2024 11:07,151.45,15595,India,Gujarat
+581611,Tomato (1kg),2,27-08-2024 11:07,52.25,15595,India,Gujarat
+581612,Tomato (1kg),3,06-01-2025 20:34,49.23,16510,India,West Bengal
+581612,Aashirvaad Atta (5kg),2,06-01-2025 20:34,245.32,16510,India,West Bengal
+581612,Bru Instant Coffee (50g),2,06-01-2025 20:34,155.21,16510,India,West Bengal
+581613,Aashirvaad Atta (5kg),1,03-06-2025 01:43,241.08,17405,India,Karnataka
+581614,Britannia Bread (400g),3,15-04-2025 09:46,39.82,13135,India,West Bengal
+581614,Parle-G Biscuits (100g),6,15-04-2025 09:46,10.09,13135,India,West Bengal
+581615,Potato (1kg),1,15-04-2025 10:38,36.46,16040,India,Karnataka
+581615,Onion (1kg),5,15-04-2025 10:38,38.35,16040,India,Karnataka
+581615,Moong Dal (1kg),4,15-04-2025 10:38,143.83,16040,India,Karnataka
+581615,Everest Garam Masala (50g),1,15-04-2025 10:38,77.91,16040,India,Karnataka
+581616,MDH Turmeric Powder (100g),1,04-04-2025 01:53,29.27,17082,India,West Bengal
+581616,Amul Butter (100g),3,04-04-2025 01:53,52.94,17082,India,West Bengal
+581617,Fortune Sunlite Oil (1L),2,25-06-2025 21:01,149.9,16252,India,Rajasthan
+581617,Amul Butter (100g),1,25-06-2025 21:01,55.91,16252,India,Rajasthan
+581618,Amul Butter (100g),5,30-11-2024 04:18,55.99,15952,India,Uttar Pradesh
+581619,Tata Tea Gold (250g),2,07-06-2025 02:49,154.57,13365,India,Kerala
+581619,MDH Turmeric Powder (100g),3,07-06-2025 02:49,29.55,13365,India,Kerala
+581619,Basmati Rice (1kg),3,07-06-2025 02:49,124.54,13365,India,Kerala
+581620,Tata Tea Gold (250g),2,16-07-2025 01:04,155.78,16612,India,Tamil Nadu
+581620,Dairy Milk Chocolate,1,16-07-2025 01:04,43.2,16612,India,Tamil Nadu
+581621,Onion (1kg),5,11-04-2025 15:33,39.9,15595,India,Rajasthan
+581621,Maggi 2-Minute Noodles,10,11-04-2025 15:33,14.03,15595,India,Rajasthan
+581622,Amul Butter (100g),4,16-06-2025 11:47,53.35,16960,India,Rajasthan
+581622,MDH Red Chilli Powder (100g),2,16-06-2025 11:47,60.59,16960,India,Rajasthan
+581623,Maggi 2-Minute Noodles,4,27-12-2024 09:15,13.94,15595,India,Uttar Pradesh
+581624,Toor Dal (1kg),2,23-03-2025 04:36,151.4,14991,India,Rajasthan
+581624,Everest Garam Masala (50g),3,23-03-2025 04:36,78.4,14991,India,Rajasthan
+581624,Tomato (1kg),1,23-03-2025 04:36,52.39,14991,India,Rajasthan
+581624,Toor Dal (1kg),3,23-03-2025 04:36,155.12,14991,India,Rajasthan
+581624,MDH Red Chilli Powder (100g),4,23-03-2025 04:36,59.63,14991,India,Rajasthan
+581625,Maggi 2-Minute Noodles,7,03-03-2025 04:17,13.98,16665,India,Kerala
+581625,Everest Garam Masala (50g),1,03-03-2025 04:17,75.4,16665,India,Kerala
+581625,Tomato (1kg),1,03-03-2025 04:17,49.13,16665,India,Kerala
+581625,Aashirvaad Atta (5kg),2,03-03-2025 04:17,254.27,16665,India,Kerala
+581626,Basmati Rice (1kg),2,21-03-2025 18:20,121.27,14763,India,Kerala
+581627,Britannia Bread (400g),1,25-02-2025 16:01,39.6,17565,India,Karnataka
+581627,Moong Dal (1kg),2,25-02-2025 16:01,139.84,17565,India,Karnataka
+581627,Bru Instant Coffee (50g),1,25-02-2025 16:01,153.83,17565,India,Karnataka
+581627,Tata Tea Gold (250g),1,25-02-2025 16:01,159.55,17565,India,Karnataka
+581627,Basmati Rice (1kg),3,25-02-2025 16:01,116.08,17565,India,Karnataka
+581627,Onion (1kg),1,25-02-2025 16:01,38.02,17565,India,Karnataka
+581627,Aashirvaad Atta (5kg),2,25-02-2025 16:01,244.62,17565,India,Karnataka
+581628,Bru Instant Coffee (50g),2,11-12-2024 09:18,150.09,17266,India,Telangana
+581628,Potato (1kg),1,11-12-2024 09:18,34.91,17266,India,Telangana
+581628,Britannia Bread (400g),2,11-12-2024 09:18,41.81,17266,India,Telangana
+581629,Potato (1kg),1,29-01-2025 01:52,33.59,17886,India,Rajasthan
+581630,Britannia Bread (400g),2,04-11-2024 09:58,40.43,16665,India,Karnataka
+581630,Maggi 2-Minute Noodles,9,04-11-2024 09:58,14.32,16665,India,Karnataka
+581630,Moong Dal (1kg),4,04-11-2024 09:58,135.18,16665,India,Karnataka
+581630,Maggi 2-Minute Noodles,7,04-11-2024 09:58,14.16,16665,India,Karnataka
+581631,Moong Dal (1kg),2,05-12-2024 22:09,138.44,17639,India,Tamil Nadu
+581631,Toor Dal (1kg),2,05-12-2024 22:09,143.62,17639,India,Tamil Nadu
+581632,Dairy Milk Chocolate,8,17-12-2024 20:41,46.4,17501,India,Maharashtra
+581632,Bru Instant Coffee (50g),1,17-12-2024 20:41,149.6,17501,India,Maharashtra
+581633,Dairy Milk Chocolate,6,10-12-2024 11:02,44.4,17082,India,Gujarat
+581633,Tata Tea Gold (250g),1,10-12-2024 11:02,155.85,17082,India,Gujarat
+581633,Tata Tea Gold (250g),1,10-12-2024 11:02,161.62,17082,India,Gujarat
+581633,Dairy Milk Chocolate,5,10-12-2024 11:02,43.95,17082,India,Gujarat
+581634,Tata Salt (1kg),5,17-02-2025 17:10,24.31,12353,India,Rajasthan
+581634,Basmati Rice (1kg),1,17-02-2025 17:10,114.86,12353,India,Rajasthan
+581634,Tata Salt (1kg),1,17-02-2025 17:10,24.6,12353,India,Rajasthan
+581634,Dairy Milk Chocolate,4,17-02-2025 17:10,43.11,12353,India,Rajasthan
+581634,MDH Turmeric Powder (100g),1,17-02-2025 17:10,30,12353,India,Rajasthan
+581634,Tata Salt (1kg),5,17-02-2025 17:10,24.31,12353,India,Rajasthan
+581634,Potato (1kg),4,17-02-2025 17:10,34.85,12353,India,Rajasthan
+581635,Potato (1kg),5,02-08-2025 12:35,36.25,16562,India,Telangana
+581636,Tata Tea Gold (250g),2,06-11-2024 14:17,154.18,17658,India,West Bengal
+581636,Aashirvaad Atta (5kg),2,06-11-2024 14:17,260.28,17658,India,West Bengal
+581637,Tata Salt (1kg),1,26-06-2025 09:21,24.91,14530,India,Karnataka
+581637,Everest Garam Masala (50g),1,26-06-2025 09:21,71.44,14530,India,Karnataka
+581638,Fortune Sunlite Oil (1L),2,07-04-2025 00:39,150.99,15595,India,Telangana
+581638,Dairy Milk Chocolate,5,07-04-2025 00:39,45.47,15595,India,Telangana
+581638,Amul Butter (100g),5,07-04-2025 00:39,53.5,15595,India,Telangana
+581638,Toor Dal (1kg),4,07-04-2025 00:39,153.94,15595,India,Telangana
+581639,Amul Milk (500ml),4,30-09-2024 11:11,27.64,12386,India,Karnataka
+581639,MDH Turmeric Powder (100g),4,30-09-2024 11:11,30.6,12386,India,Karnataka
+581639,Britannia Bread (400g),2,30-09-2024 11:11,39.36,12386,India,Karnataka
+581639,Everest Garam Masala (50g),2,30-09-2024 11:11,75.04,12386,India,Karnataka
+581640,Tata Salt (1kg),5,03-06-2025 02:25,23.97,15675,India,Kerala
+581640,Maggi 2-Minute Noodles,1,03-06-2025 02:25,13.56,15675,India,Kerala
+581641,Tomato (1kg),2,31-05-2025 11:31,52.27,14530,India,Delhi
+581642,Tomato (1kg),4,15-02-2025 21:12,48.82,14033,India,Gujarat
+581642,MDH Turmeric Powder (100g),4,15-02-2025 21:12,30.25,14033,India,Gujarat
+581642,MDH Red Chilli Powder (100g),1,15-02-2025 21:12,60.98,14033,India,Gujarat
+581643,Basmati Rice (1kg),2,09-03-2025 03:32,118.31,15021,India,Kerala
+581643,Tata Salt (1kg),4,09-03-2025 03:32,24.78,15021,India,Kerala
+581644,Basmati Rice (1kg),2,10-01-2025 10:44,122.95,16612,India,Rajasthan
+581644,Toor Dal (1kg),1,10-01-2025 10:44,148.17,16612,India,Rajasthan
+581644,Amul Butter (100g),1,10-01-2025 10:44,57.63,16612,India,Rajasthan
+581644,Moong Dal (1kg),1,10-01-2025 10:44,140.97,16612,India,Rajasthan
+581645,Maggi 2-Minute Noodles,8,15-01-2025 20:51,13.38,17082,India,Maharashtra
+581645,Tomato (1kg),3,15-01-2025 20:51,48.19,17082,India,Maharashtra
+581645,Amul Milk (500ml),5,15-01-2025 20:51,28.15,17082,India,Maharashtra
+581645,Basmati Rice (1kg),3,15-01-2025 20:51,117.75,17082,India,Maharashtra
+581645,MDH Turmeric Powder (100g),3,15-01-2025 20:51,28.88,17082,India,Maharashtra
+581645,Potato (1kg),1,15-01-2025 20:51,34.81,17082,India,Maharashtra
+581646,Tomato (1kg),2,03-01-2025 00:09,50.85,13769,India,Karnataka
+581646,MDH Turmeric Powder (100g),4,03-01-2025 00:09,31.35,13769,India,Karnataka
+581647,Tomato (1kg),2,06-06-2025 04:37,50.59,12490,India,Tamil Nadu
+581647,Dairy Milk Chocolate,2,06-06-2025 04:37,46.03,12490,India,Tamil Nadu
+581647,Toor Dal (1kg),2,06-06-2025 04:37,148.32,12490,India,Tamil Nadu
+581647,Parle-G Biscuits (100g),7,06-06-2025 04:37,9.86,12490,India,Tamil Nadu
+581648,Tata Salt (1kg),3,19-05-2025 12:02,24.53,17565,India,Maharashtra
+581648,Moong Dal (1kg),4,19-05-2025 12:02,138.44,17565,India,Maharashtra
+581648,MDH Red Chilli Powder (100g),4,19-05-2025 12:02,62.81,17565,India,Maharashtra
+581648,Britannia Bread (400g),1,19-05-2025 12:02,41.36,17565,India,Maharashtra
+581648,Maggi 2-Minute Noodles,8,19-05-2025 12:02,14.15,17565,India,Maharashtra
+581648,Basmati Rice (1kg),2,19-05-2025 12:02,123.63,17565,India,Maharashtra
+581649,Potato (1kg),5,11-02-2025 16:24,33.93,17565,India,Telangana
+581649,Aashirvaad Atta (5kg),2,11-02-2025 16:24,251.51,17565,India,Telangana
+581649,Tomato (1kg),4,11-02-2025 16:24,51.31,17565,India,Telangana
+581649,Basmati Rice (1kg),2,11-02-2025 16:24,124.06,17565,India,Telangana
+581649,Aashirvaad Atta (5kg),2,11-02-2025 16:24,258.21,17565,India,Telangana
+581649,Bru Instant Coffee (50g),1,11-02-2025 16:24,155.43,17565,India,Telangana
+581650,Tata Salt (1kg),5,12-01-2025 19:38,24.88,17273,India,Telangana
+581650,MDH Turmeric Powder (100g),4,12-01-2025 19:38,29.11,17273,India,Telangana
+581651,Fortune Sunlite Oil (1L),2,02-05-2025 09:06,142.56,16252,India,Tamil Nadu
+581651,Tata Salt (1kg),5,02-05-2025 09:06,25.05,16252,India,Tamil Nadu
+581652,Dairy Milk Chocolate,3,24-07-2025 14:33,43.52,15021,India,Kerala
+581652,Moong Dal (1kg),2,24-07-2025 14:33,139.55,15021,India,Kerala
+581653,MDH Turmeric Powder (100g),1,05-05-2025 08:17,30.73,15801,India,Uttar Pradesh
+581653,Bru Instant Coffee (50g),2,05-05-2025 08:17,148.57,15801,India,Uttar Pradesh
+581653,Potato (1kg),1,05-05-2025 08:17,34.93,15801,India,Uttar Pradesh
+581653,MDH Turmeric Powder (100g),3,05-05-2025 08:17,31.27,15801,India,Uttar Pradesh
+581654,Amul Milk (500ml),2,23-07-2025 18:24,28.74,14763,India,Uttar Pradesh
+581655,Onion (1kg),1,03-03-2025 12:35,39.62,15021,India,West Bengal
+581656,Parle-G Biscuits (100g),3,12-08-2024 18:06,9.53,15928,India,Kerala
+581656,Dairy Milk Chocolate,4,12-08-2024 18:06,45.04,15928,India,Kerala
+581656,Tata Tea Gold (250g),2,12-08-2024 18:06,155.15,15928,India,Kerala
+581657,MDH Turmeric Powder (100g),3,25-12-2024 11:51,29.64,12375,India,West Bengal
+581658,Basmati Rice (1kg),1,13-05-2025 10:24,120.23,12490,India,Delhi
+581658,MDH Turmeric Powder (100g),5,13-05-2025 10:24,31.38,12490,India,Delhi
+581659,Moong Dal (1kg),4,17-05-2025 10:36,133.96,16665,India,Rajasthan
+581659,Maggi 2-Minute Noodles,9,17-05-2025 10:36,14.36,16665,India,Rajasthan
+581659,Toor Dal (1kg),3,17-05-2025 10:36,156.91,16665,India,Rajasthan
+581659,Tomato (1kg),4,17-05-2025 10:36,50.91,16665,India,Rajasthan
+581660,Amul Butter (100g),3,04-10-2024 20:12,55.18,14033,India,Gujarat
+581660,Basmati Rice (1kg),2,04-10-2024 20:12,116.12,14033,India,Gujarat
+581661,Amul Milk (500ml),1,19-04-2025 14:31,28.23,14530,India,Tamil Nadu
+581661,Bru Instant Coffee (50g),1,19-04-2025 14:31,147.21,14530,India,Tamil Nadu
+581662,Amul Milk (500ml),6,14-02-2025 11:16,28.82,16612,India,Tamil Nadu
+581662,Fortune Sunlite Oil (1L),2,14-02-2025 11:16,142.59,16612,India,Tamil Nadu
+581662,Maggi 2-Minute Noodles,7,14-02-2025 11:16,14.28,16612,India,Tamil Nadu
+581662,Basmati Rice (1kg),1,14-02-2025 11:16,120.14,16612,India,Tamil Nadu
+581662,Potato (1kg),2,14-02-2025 11:16,34.6,16612,India,Tamil Nadu
+581662,MDH Red Chilli Powder (100g),1,14-02-2025 11:16,58.74,16612,India,Tamil Nadu
+581663,Moong Dal (1kg),1,15-04-2025 03:18,146.79,14633,India,Tamil Nadu
+581663,Aashirvaad Atta (5kg),2,15-04-2025 03:18,243.29,14633,India,Tamil Nadu
+581664,Amul Butter (100g),2,09-08-2025 18:00,57.26,13365,India,Delhi
+581664,MDH Turmeric Powder (100g),3,09-08-2025 18:00,29.2,13365,India,Delhi
+581665,Moong Dal (1kg),2,26-12-2024 04:00,138.93,13769,India,Kerala
+581665,Toor Dal (1kg),1,26-12-2024 04:00,152.87,13769,India,Kerala
+581665,Basmati Rice (1kg),2,26-12-2024 04:00,122.85,13769,India,Kerala
+581665,Amul Milk (500ml),3,26-12-2024 04:00,29.29,13769,India,Kerala
+581666,Aashirvaad Atta (5kg),1,10-05-2025 11:29,259.92,12190,India,Tamil Nadu
+581666,Tomato (1kg),3,10-05-2025 11:29,48.38,12190,India,Tamil Nadu
+581666,Onion (1kg),2,10-05-2025 11:29,40.1,12190,India,Tamil Nadu
+581666,Bru Instant Coffee (50g),2,10-05-2025 11:29,143.69,12190,India,Tamil Nadu
+581667,Parle-G Biscuits (100g),1,15-04-2025 16:37,10.16,16665,India,Uttar Pradesh
+581667,Tata Salt (1kg),3,15-04-2025 16:37,25.6,16665,India,Uttar Pradesh
+581667,Basmati Rice (1kg),3,15-04-2025 16:37,121.58,16665,India,Uttar Pradesh
+581667,Maggi 2-Minute Noodles,10,15-04-2025 16:37,14.19,16665,India,Uttar Pradesh
+581667,Basmati Rice (1kg),3,15-04-2025 16:37,121.66,16665,India,Uttar Pradesh
+581667,MDH Turmeric Powder (100g),5,15-04-2025 16:37,30.57,16665,India,Uttar Pradesh
+581668,Potato (1kg),3,13-04-2025 16:03,33.43,17273,India,Karnataka
+581669,Bru Instant Coffee (50g),2,20-09-2024 12:39,149.97,15952,India,Kerala
+581670,Tomato (1kg),1,28-10-2024 00:18,51.19,16978,India,Karnataka
+581670,MDH Turmeric Powder (100g),1,28-10-2024 00:18,29.82,16978,India,Karnataka
+581670,Amul Butter (100g),4,28-10-2024 00:18,54.77,16978,India,Karnataka
+581670,Amul Butter (100g),4,28-10-2024 00:18,54.51,16978,India,Karnataka
+581671,Tomato (1kg),2,30-03-2025 04:08,50.93,16186,India,Telangana
+581671,Tata Tea Gold (250g),2,30-03-2025 04:08,166.46,16186,India,Telangana
+581672,Tata Tea Gold (250g),1,17-03-2025 21:59,154.18,12375,India,Telangana
+581672,Bru Instant Coffee (50g),2,17-03-2025 21:59,145.63,12375,India,Telangana
+581673,Maggi 2-Minute Noodles,2,18-01-2025 03:28,14.15,13760,India,Rajasthan
+581673,Britannia Bread (400g),2,18-01-2025 03:28,41.43,13760,India,Rajasthan
+581673,Amul Milk (500ml),4,18-01-2025 03:28,26.63,13760,India,Rajasthan
+581673,Everest Garam Masala (50g),2,18-01-2025 03:28,75.48,13760,India,Rajasthan
+581674,Bru Instant Coffee (50g),2,08-06-2025 17:31,146.27,17664,India,Rajasthan
+581674,Bru Instant Coffee (50g),1,08-06-2025 17:31,144.69,17664,India,Rajasthan
+581675,MDH Red Chilli Powder (100g),1,04-05-2025 01:51,58.02,12887,India,Delhi
+581675,Everest Garam Masala (50g),2,04-05-2025 01:51,75.45,12887,India,Delhi
+581676,Potato (1kg),1,25-08-2024 22:03,35.2,12490,India,Gujarat
+581676,Tata Tea Gold (250g),2,25-08-2024 22:03,153.37,12490,India,Gujarat
+581676,Tata Tea Gold (250g),1,25-08-2024 22:03,152.19,12490,India,Gujarat
+581677,Basmati Rice (1kg),3,01-10-2024 12:10,116.34,13365,India,Rajasthan
+581678,Amul Milk (500ml),4,27-01-2025 21:01,26.76,13769,India,Telangana
+581678,Dairy Milk Chocolate,5,27-01-2025 21:01,46.48,13769,India,Telangana
+581679,Dairy Milk Chocolate,3,21-11-2024 07:12,43.02,15021,India,West Bengal
+581680,Tomato (1kg),4,23-09-2024 08:16,49.68,13135,India,Maharashtra
+581681,Bru Instant Coffee (50g),2,03-07-2025 09:21,143.25,17632,India,Gujarat
+581681,Britannia Bread (400g),3,03-07-2025 09:21,41.27,17632,India,Gujarat
+581681,Potato (1kg),1,03-07-2025 09:21,33.62,17632,India,Gujarat
+581681,Tata Salt (1kg),3,03-07-2025 09:21,25.17,17632,India,Gujarat
+581682,Amul Milk (500ml),2,16-12-2024 10:29,28.17,17273,India,Telangana
+581682,Everest Garam Masala (50g),1,16-12-2024 10:29,76.76,17273,India,Telangana
+581683,Britannia Bread (400g),3,21-12-2024 07:36,38.4,17658,India,Maharashtra
+581683,Parle-G Biscuits (100g),9,21-12-2024 07:36,10.14,17658,India,Maharashtra
+581684,Britannia Bread (400g),3,06-04-2025 20:58,39.82,15595,India,Maharashtra
+581684,Tata Salt (1kg),2,06-04-2025 20:58,24,15595,India,Maharashtra
+581685,Fortune Sunlite Oil (1L),1,15-11-2024 01:05,139.67,17405,India,Kerala
+581685,Everest Garam Masala (50g),3,15-11-2024 01:05,78.1,17405,India,Kerala
+581685,Parle-G Biscuits (100g),3,15-11-2024 01:05,10.06,17405,India,Kerala
+581685,Parle-G Biscuits (100g),10,15-11-2024 01:05,9.74,17405,India,Kerala
+581686,Fortune Sunlite Oil (1L),1,12-09-2024 00:32,143.32,15952,India,Rajasthan
+581686,MDH Red Chilli Powder (100g),2,12-09-2024 00:32,62.82,15952,India,Rajasthan
+581686,Dairy Milk Chocolate,2,12-09-2024 00:32,45.14,15952,India,Rajasthan
+581686,Tata Salt (1kg),5,12-09-2024 00:32,26.08,15952,India,Rajasthan
+581686,Tomato (1kg),2,12-09-2024 00:32,49.28,15952,India,Rajasthan
+581686,MDH Turmeric Powder (100g),3,12-09-2024 00:32,30.08,15952,India,Rajasthan
+581687,Tomato (1kg),1,08-12-2024 19:49,50.62,15595,India,Rajasthan
+581687,Toor Dal (1kg),3,08-12-2024 19:49,146.47,15595,India,Rajasthan
+581688,Tata Salt (1kg),5,26-09-2024 23:00,26.15,16375,India,Maharashtra
+581689,Everest Garam Masala (50g),1,08-05-2025 12:47,75.63,14633,India,Rajasthan
+581689,Tomato (1kg),3,08-05-2025 12:47,50.79,14633,India,Rajasthan
+581690,Everest Garam Masala (50g),1,29-04-2025 18:22,78.08,14530,India,Kerala
+581691,Fortune Sunlite Oil (1L),2,19-04-2025 12:16,152.02,15021,India,Rajasthan
+581691,Britannia Bread (400g),1,19-04-2025 12:16,40.03,15021,India,Rajasthan
+581691,Everest Garam Masala (50g),2,19-04-2025 12:16,74.36,15021,India,Rajasthan
+581692,Maggi 2-Minute Noodles,11,25-04-2025 10:11,14.69,17082,India,Tamil Nadu
+581692,Maggi 2-Minute Noodles,5,25-04-2025 10:11,13.82,17082,India,Tamil Nadu
+581692,Amul Butter (100g),4,25-04-2025 10:11,56.12,17082,India,Tamil Nadu
+581693,Dairy Milk Chocolate,8,10-11-2024 23:17,43.7,17266,India,Uttar Pradesh
+581693,Fortune Sunlite Oil (1L),1,10-11-2024 23:17,141.43,17266,India,Uttar Pradesh
+581693,Fortune Sunlite Oil (1L),1,10-11-2024 23:17,142.17,17266,India,Uttar Pradesh
+581694,Tata Salt (1kg),4,17-02-2025 05:13,26.11,17886,India,Gujarat
+581695,Amul Butter (100g),4,07-02-2025 02:02,54.86,17632,India,Uttar Pradesh
+581695,Basmati Rice (1kg),2,07-02-2025 02:02,115.54,17632,India,Uttar Pradesh
+581695,Toor Dal (1kg),2,07-02-2025 02:02,156.01,17632,India,Uttar Pradesh
+581695,Parle-G Biscuits (100g),4,07-02-2025 02:02,10.37,17632,India,Uttar Pradesh
+581696,MDH Red Chilli Powder (100g),2,31-08-2024 17:12,57.14,14033,India,Rajasthan
+581696,Maggi 2-Minute Noodles,11,31-08-2024 17:12,13.95,14033,India,Rajasthan
+581696,Aashirvaad Atta (5kg),1,31-08-2024 17:12,259.76,14033,India,Rajasthan
+581696,Bru Instant Coffee (50g),2,31-08-2024 17:12,151.52,14033,India,Rajasthan
+581697,Tata Salt (1kg),1,15-06-2025 07:34,24.08,17082,India,Gujarat
+581698,Bru Instant Coffee (50g),2,16-12-2024 00:13,154.94,12712,India,West Bengal
+581699,Tata Salt (1kg),1,08-06-2025 02:16,25.47,16612,India,Telangana
+581700,Dairy Milk Chocolate,3,28-09-2024 16:13,43.07,12375,India,Gujarat
+581701,Britannia Bread (400g),2,23-09-2024 22:58,40.38,14633,India,Karnataka
+581701,MDH Turmeric Powder (100g),3,23-09-2024 22:58,29.86,14633,India,Karnataka
+581702,Tomato (1kg),3,10-01-2025 11:27,51.42,16186,India,Uttar Pradesh
+581702,Toor Dal (1kg),4,10-01-2025 11:27,156.23,16186,India,Uttar Pradesh
+581703,Moong Dal (1kg),1,18-10-2024 00:35,143.76,15801,India,Karnataka
+581703,Tata Tea Gold (250g),1,18-10-2024 00:35,164.38,15801,India,Karnataka
+581703,Potato (1kg),1,18-10-2024 00:35,34.62,15801,India,Karnataka
+581703,Dairy Milk Chocolate,8,18-10-2024 00:35,43.29,15801,India,Karnataka
+581703,Fortune Sunlite Oil (1L),2,18-10-2024 00:35,145.67,15801,India,Karnataka
+581703,MDH Red Chilli Powder (100g),2,18-10-2024 00:35,59.89,15801,India,Karnataka
+581703,Toor Dal (1kg),4,18-10-2024 00:35,156.86,15801,India,Karnataka
+581703,Aashirvaad Atta (5kg),1,18-10-2024 00:35,250.64,15801,India,Karnataka
+581704,Britannia Bread (400g),2,03-04-2025 10:22,39.7,14991,India,Gujarat
+581704,Dairy Milk Chocolate,1,03-04-2025 10:22,44.74,14991,India,Gujarat
+581705,Basmati Rice (1kg),1,24-01-2025 18:22,119.83,17405,India,Uttar Pradesh
+581705,Fortune Sunlite Oil (1L),2,24-01-2025 18:22,149.49,17405,India,Uttar Pradesh
+581706,MDH Turmeric Powder (100g),3,22-10-2024 16:51,31.04,12190,India,Maharashtra
+581707,Basmati Rice (1kg),3,12-06-2025 00:08,121.64,12190,India,Delhi
+581707,Tomato (1kg),4,12-06-2025 00:08,51.08,12190,India,Delhi
+581707,Britannia Bread (400g),2,12-06-2025 00:08,40.17,12190,India,Delhi
+581708,Britannia Bread (400g),3,27-01-2025 14:51,39.77,16186,India,Karnataka
+581708,Potato (1kg),1,27-01-2025 14:51,33.58,16186,India,Karnataka
+581708,Fortune Sunlite Oil (1L),1,27-01-2025 14:51,145.51,16186,India,Karnataka
+581708,Maggi 2-Minute Noodles,12,27-01-2025 14:51,13.36,16186,India,Karnataka
+581709,Toor Dal (1kg),3,23-08-2024 11:20,146.18,15675,India,Kerala
+581709,Tata Salt (1kg),5,23-08-2024 11:20,23.82,15675,India,Kerala
+581709,Britannia Bread (400g),1,23-08-2024 11:20,40.97,15675,India,Kerala
+581709,Everest Garam Masala (50g),2,23-08-2024 11:20,73.02,15675,India,Kerala
+581709,Tata Salt (1kg),5,23-08-2024 11:20,24.68,15675,India,Kerala
+581710,Potato (1kg),5,01-08-2025 03:35,33.76,13365,India,Karnataka
+581710,Dairy Milk Chocolate,7,01-08-2025 03:35,42.78,13365,India,Karnataka
+581710,Maggi 2-Minute Noodles,1,01-08-2025 03:35,13.92,13365,India,Karnataka
+581711,Basmati Rice (1kg),1,12-11-2024 01:07,123.99,15675,India,West Bengal
+581711,Britannia Bread (400g),3,12-11-2024 01:07,39.96,15675,India,West Bengal
+581711,Toor Dal (1kg),4,12-11-2024 01:07,143.76,15675,India,West Bengal
+581711,Amul Butter (100g),2,12-11-2024 01:07,54.47,15675,India,West Bengal
+581712,Amul Milk (500ml),2,27-02-2025 09:52,27.19,15952,India,Tamil Nadu
+581713,Onion (1kg),3,13-04-2025 06:04,41.15,14079,India,Gujarat
+581713,Dairy Milk Chocolate,2,13-04-2025 06:04,46.28,14079,India,Gujarat
+581713,Tata Salt (1kg),2,13-04-2025 06:04,24.04,14079,India,Gujarat
+581713,Bru Instant Coffee (50g),2,13-04-2025 06:04,153.4,14079,India,Gujarat
+581713,Amul Butter (100g),2,13-04-2025 06:04,56.65,14079,India,Gujarat
+581713,Tata Tea Gold (250g),2,13-04-2025 06:04,157.36,14079,India,Gujarat
+581713,Basmati Rice (1kg),3,13-04-2025 06:04,115.8,14079,India,Gujarat
+581714,Tata Salt (1kg),5,07-09-2024 16:49,23.89,15021,India,Maharashtra
+581714,Onion (1kg),2,07-09-2024 16:49,40.06,15021,India,Maharashtra
+581714,Britannia Bread (400g),3,07-09-2024 16:49,40.47,15021,India,Maharashtra
+581714,Britannia Bread (400g),2,07-09-2024 16:49,40.32,15021,India,Maharashtra
+581714,MDH Turmeric Powder (100g),4,07-09-2024 16:49,30.69,15021,India,Maharashtra
+581714,Britannia Bread (400g),2,07-09-2024 16:49,40.37,15021,India,Maharashtra
+581715,Tata Tea Gold (250g),1,25-04-2025 11:18,159.89,17664,India,Gujarat
+581715,Britannia Bread (400g),2,25-04-2025 11:18,38.12,17664,India,Gujarat
+581716,Dairy Milk Chocolate,3,08-04-2025 02:32,46.84,14530,India,Tamil Nadu
+581716,Onion (1kg),2,08-04-2025 02:32,38.18,14530,India,Tamil Nadu
+581716,Potato (1kg),1,08-04-2025 02:32,36.14,14530,India,Tamil Nadu
+581716,Britannia Bread (400g),2,08-04-2025 02:32,41.74,14530,India,Tamil Nadu
+581717,Tomato (1kg),1,15-06-2025 05:39,49.36,16186,India,Delhi
+581717,Basmati Rice (1kg),1,15-06-2025 05:39,117.37,16186,India,Delhi
+581717,Tomato (1kg),2,15-06-2025 05:39,50,16186,India,Delhi
+581717,Everest Garam Masala (50g),3,15-06-2025 05:39,78.7,16186,India,Delhi
+581717,Tata Tea Gold (250g),1,15-06-2025 05:39,166.96,16186,India,Delhi
+581717,Tomato (1kg),2,15-06-2025 05:39,47.53,16186,India,Delhi
+581717,MDH Turmeric Powder (100g),1,15-06-2025 05:39,29.79,16186,India,Delhi
+581717,Maggi 2-Minute Noodles,11,15-06-2025 05:39,13.49,16186,India,Delhi
+581717,Aashirvaad Atta (5kg),2,15-06-2025 05:39,251.49,16186,India,Delhi
+581718,Basmati Rice (1kg),3,19-06-2025 23:49,120.84,15528,India,Maharashtra
+581718,Tata Tea Gold (250g),1,19-06-2025 23:49,155.55,15528,India,Maharashtra
+581718,Onion (1kg),2,19-06-2025 23:49,39.06,15528,India,Maharashtra
+581719,Amul Butter (100g),2,23-01-2025 12:21,56.98,16252,India,Uttar Pradesh
+581719,Tomato (1kg),2,23-01-2025 12:21,49.59,16252,India,Uttar Pradesh
+581719,Amul Butter (100g),5,23-01-2025 12:21,56.88,16252,India,Uttar Pradesh
+581720,Moong Dal (1kg),2,02-12-2024 01:17,144.37,15595,India,Kerala
+581721,Aashirvaad Atta (5kg),1,25-04-2025 05:10,256.58,17405,India,Karnataka
+581721,Toor Dal (1kg),3,25-04-2025 05:10,151.87,17405,India,Karnataka
+581721,Basmati Rice (1kg),1,25-04-2025 05:10,118.69,17405,India,Karnataka
+581721,Amul Milk (500ml),4,25-04-2025 05:10,28.1,17405,India,Karnataka
+581721,Basmati Rice (1kg),1,25-04-2025 05:10,115.04,17405,India,Karnataka
+581721,Tata Salt (1kg),3,25-04-2025 05:10,25.55,17405,India,Karnataka
+581721,Aashirvaad Atta (5kg),1,25-04-2025 05:10,261.01,17405,India,Karnataka
+581721,Toor Dal (1kg),4,25-04-2025 05:10,150.54,17405,India,Karnataka
+581722,Parle-G Biscuits (100g),8,06-01-2025 13:09,10.32,17266,India,Telangana
+581722,Tata Tea Gold (250g),2,06-01-2025 13:09,154.31,17266,India,Telangana
+581723,Maggi 2-Minute Noodles,7,16-09-2024 18:36,14.39,16562,India,Rajasthan
+581723,Tomato (1kg),2,16-09-2024 18:36,51.82,16562,India,Rajasthan
+581723,Britannia Bread (400g),3,16-09-2024 18:36,38.96,16562,India,Rajasthan
+581723,MDH Red Chilli Powder (100g),1,16-09-2024 18:36,58.62,16562,India,Rajasthan
+581724,Fortune Sunlite Oil (1L),2,21-12-2024 10:11,143.34,16978,India,Rajasthan
+581724,Tata Tea Gold (250g),2,21-12-2024 10:11,157.91,16978,India,Rajasthan
+581725,Bru Instant Coffee (50g),2,03-01-2025 06:40,148.81,16978,India,West Bengal
+581726,Tata Tea Gold (250g),2,15-05-2025 18:00,166.33,16186,India,Gujarat
+581727,Parle-G Biscuits (100g),10,16-09-2024 15:34,10.17,15801,India,Rajasthan
+581727,Tata Salt (1kg),1,16-09-2024 15:34,26.18,15801,India,Rajasthan
+581728,Tomato (1kg),4,09-09-2024 14:27,51.98,12648,India,Telangana
+581728,MDH Turmeric Powder (100g),4,09-09-2024 14:27,28.65,12648,India,Telangana
+581728,Britannia Bread (400g),1,09-09-2024 14:27,38.3,12648,India,Telangana
+581728,Britannia Bread (400g),2,09-09-2024 14:27,38.97,12648,India,Telangana
+581729,Onion (1kg),1,09-09-2024 15:46,41.61,14033,India,Telangana
+581729,Potato (1kg),4,09-09-2024 15:46,33.37,14033,India,Telangana
+581730,Tata Salt (1kg),1,28-06-2025 12:22,25.22,12490,India,Karnataka
+581730,Amul Butter (100g),1,28-06-2025 12:22,55.63,12490,India,Karnataka
+581731,MDH Red Chilli Powder (100g),3,10-10-2024 06:20,60.48,17266,India,Tamil Nadu
+581731,Tomato (1kg),2,10-10-2024 06:20,48.1,17266,India,Tamil Nadu
+581731,Amul Milk (500ml),1,10-10-2024 06:20,26.8,17266,India,Tamil Nadu
+581731,Dairy Milk Chocolate,7,10-10-2024 06:20,43.41,17266,India,Tamil Nadu
+581731,Amul Milk (500ml),4,10-10-2024 06:20,26.98,17266,India,Tamil Nadu
+581731,Parle-G Biscuits (100g),4,10-10-2024 06:20,9.96,17266,India,Tamil Nadu
+581732,Everest Garam Masala (50g),3,29-05-2025 02:55,77.53,16186,India,West Bengal
+581732,Bru Instant Coffee (50g),2,29-05-2025 02:55,151.41,16186,India,West Bengal
+581732,MDH Turmeric Powder (100g),3,29-05-2025 02:55,29.39,16186,India,West Bengal
+581732,Onion (1kg),3,29-05-2025 02:55,40.36,16186,India,West Bengal
+581732,Basmati Rice (1kg),1,29-05-2025 02:55,115.43,16186,India,West Bengal
+581732,Amul Butter (100g),5,29-05-2025 02:55,53.82,16186,India,West Bengal
+581733,MDH Turmeric Powder (100g),3,17-10-2024 18:03,28.85,17082,India,Kerala
+581733,Bru Instant Coffee (50g),2,17-10-2024 18:03,156.4,17082,India,Kerala
+581733,Parle-G Biscuits (100g),3,17-10-2024 18:03,10.17,17082,India,Kerala
+581733,Maggi 2-Minute Noodles,1,17-10-2024 18:03,13.95,17082,India,Kerala
+581734,Dairy Milk Chocolate,1,17-08-2024 13:32,45.1,16040,India,Tamil Nadu
+581734,Tata Salt (1kg),5,17-08-2024 13:32,23.95,16040,India,Tamil Nadu
+581734,Potato (1kg),2,17-08-2024 13:32,34.38,16040,India,Tamil Nadu
+581735,Basmati Rice (1kg),3,02-03-2025 15:48,116.62,16040,India,Uttar Pradesh
+581736,Amul Butter (100g),2,21-04-2025 12:44,53.32,13760,India,Telangana
+581736,Maggi 2-Minute Noodles,1,21-04-2025 12:44,13.43,13760,India,Telangana
+581737,Amul Milk (500ml),1,08-11-2024 17:56,29.28,15021,India,Rajasthan
+581737,Bru Instant Coffee (50g),1,08-11-2024 17:56,148.11,15021,India,Rajasthan
+581738,Onion (1kg),4,06-04-2025 16:20,40.46,17632,India,Rajasthan
+581738,Britannia Bread (400g),1,06-04-2025 16:20,41.64,17632,India,Rajasthan
+581738,Parle-G Biscuits (100g),10,06-04-2025 16:20,10.22,17632,India,Rajasthan
+581738,Aashirvaad Atta (5kg),2,06-04-2025 16:20,246.27,17632,India,Rajasthan
+581739,Tata Salt (1kg),5,14-08-2024 09:13,25.94,15675,India,Uttar Pradesh
+581739,Tomato (1kg),4,14-08-2024 09:13,52.29,15675,India,Uttar Pradesh
+581739,Amul Butter (100g),5,14-08-2024 09:13,53.69,15675,India,Uttar Pradesh
+581739,Britannia Bread (400g),1,14-08-2024 09:13,41.72,15675,India,Uttar Pradesh
+581740,Britannia Bread (400g),2,07-08-2025 06:32,39.01,16978,India,Gujarat
+581740,Basmati Rice (1kg),2,07-08-2025 06:32,118.74,16978,India,Gujarat
+581740,Britannia Bread (400g),3,07-08-2025 06:32,41.49,16978,India,Gujarat
+581740,Tomato (1kg),2,07-08-2025 06:32,49.71,16978,India,Gujarat
+581741,Aashirvaad Atta (5kg),2,25-08-2024 16:50,257.69,14763,India,Delhi
+581742,Amul Milk (500ml),2,03-01-2025 07:55,27.01,14079,India,Karnataka
+581742,Everest Garam Masala (50g),2,03-01-2025 07:55,73.79,14079,India,Karnataka
+581742,Aashirvaad Atta (5kg),2,03-01-2025 07:55,240.59,14079,India,Karnataka
+581742,Amul Milk (500ml),2,03-01-2025 07:55,28.15,14079,India,Karnataka
+581742,Everest Garam Masala (50g),1,03-01-2025 07:55,78.7,14079,India,Karnataka
+581743,Tata Salt (1kg),2,12-11-2024 14:40,25.45,16562,India,Telangana
+581743,Parle-G Biscuits (100g),8,12-11-2024 14:40,10.41,16562,India,Telangana
+581744,Aashirvaad Atta (5kg),1,03-02-2025 05:58,237.63,17886,India,Maharashtra
+581744,Aashirvaad Atta (5kg),1,03-02-2025 05:58,245.7,17886,India,Maharashtra
+581744,Moong Dal (1kg),1,03-02-2025 05:58,138.73,17886,India,Maharashtra
+581744,Parle-G Biscuits (100g),7,03-02-2025 05:58,10.2,17886,India,Maharashtra
+581745,Tomato (1kg),1,17-04-2025 05:23,47.83,15595,India,Delhi
+581745,Onion (1kg),5,17-04-2025 05:23,38.35,15595,India,Delhi
+581745,Basmati Rice (1kg),2,17-04-2025 05:23,124.29,15595,India,Delhi
+581745,Tomato (1kg),2,17-04-2025 05:23,48.57,15595,India,Delhi
+581746,Toor Dal (1kg),4,19-06-2025 11:20,142.85,13760,India,Gujarat
+581746,Tomato (1kg),4,19-06-2025 11:20,50.21,13760,India,Gujarat
+581747,Tomato (1kg),4,18-09-2024 18:13,51.22,15952,India,Uttar Pradesh
+581747,Onion (1kg),4,18-09-2024 18:13,41.18,15952,India,Uttar Pradesh
+581747,Dairy Milk Chocolate,7,18-09-2024 18:13,42.85,15952,India,Uttar Pradesh
+581747,Fortune Sunlite Oil (1L),1,18-09-2024 18:13,141.33,15952,India,Uttar Pradesh
+581747,MDH Red Chilli Powder (100g),4,18-09-2024 18:13,62.38,15952,India,Uttar Pradesh
+581747,Tomato (1kg),2,18-09-2024 18:13,49.37,15952,India,Uttar Pradesh
+581748,Amul Butter (100g),2,10-03-2025 03:28,54.24,15798,India,Telangana
+581749,Potato (1kg),1,11-02-2025 17:55,36.64,15798,India,Kerala
+581749,Tomato (1kg),1,11-02-2025 17:55,51.86,15798,India,Kerala
+581749,Everest Garam Masala (50g),1,11-02-2025 17:55,72.72,15798,India,Kerala
+581750,Potato (1kg),1,14-09-2024 04:54,34.85,16040,India,Karnataka
+581750,Maggi 2-Minute Noodles,10,14-09-2024 04:54,13.48,16040,India,Karnataka
+581750,Dairy Milk Chocolate,3,14-09-2024 04:54,42.89,16040,India,Karnataka
+581750,Basmati Rice (1kg),1,14-09-2024 04:54,120.99,16040,India,Karnataka
+581750,Fortune Sunlite Oil (1L),1,14-09-2024 04:54,151.76,16040,India,Karnataka
+581750,Potato (1kg),2,14-09-2024 04:54,34.29,16040,India,Karnataka
+581751,Onion (1kg),1,19-07-2025 06:05,40.45,17501,India,Tamil Nadu
+581751,Dairy Milk Chocolate,1,19-07-2025 06:05,47.01,17501,India,Tamil Nadu

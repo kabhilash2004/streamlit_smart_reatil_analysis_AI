@@ -1,0 +1,12 @@
+Flask
+pandas
+numpy
+matplotlib
+seaborn
+mlxtend
+openpyxl
+python-dotenv
+google-generativeai
+fpdf2
+groq
+fpdf
