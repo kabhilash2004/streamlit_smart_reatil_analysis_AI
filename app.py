@@ -436,7 +436,7 @@ elif page == "Future Strategy Report":
         
         st.markdown("---")
         st.subheader("Download Strategy Report")
-        pdf_result = create_pdf_report("Future Strategy Report", report_text) # No charts are passed
+        pdf_result = create_pdf_report("Future Strategy Report", report_text) 
         if "error" in pdf_result:
             st.error(pdf_result["error"])
         else:
