@@ -228,7 +228,7 @@ def create_pdf_report(report_title, report_text, _charts=None):
 # --- Streamlit UI ---
 
 with st.sidebar:
-    st.image("mypic.jpg", width=100)
+    st.image("picg.jpg", width=100)
     st.title("Smart Retail AI Analyst")
     page = st.radio(
         "Choose your analysis method",
