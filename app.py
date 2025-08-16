@@ -12,14 +12,14 @@ from datetime import datetime
 from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import apriori, association_rules
 
-# --- Page Configuration ---
+
 st.set_page_config(
     page_title="Smart Retail AI Analyst",
     page_icon="🚀",
     layout="wide"
 )
 
-# --- Analysis Logic Functions ---
+
 
 COLUMN_ALIASES = {
     'BillNo': ['billno', 'invoice', 'invoiceid', 'bill number'], 'Itemname': ['itemname', 'item', 'product', 'product name', 'description'],
@@ -136,7 +136,7 @@ def generate_future_predictions(_df):
     try:
         client = Groq(api_key=api_key)
         
-        # We can create a simple summary for the AI to analyze
+        
         sales_summary = _df.groupby(_df['Date'].dt.to_period('M'))['TotalSales'].sum().to_string()
         top_products = _df.groupby('Itemname')['TotalSales'].sum().nlargest(5).to_string()
         top_states = _df.groupby('State')['TotalSales'].sum().nlargest(5).to_string() if 'State' in _df.columns else "Not Available"
@@ -191,7 +191,7 @@ def generate_future_predictions(_df):
                 {"role": "user", "content": user_prompt}
             ],
             model="llama3-70b-8192",
-            temperature=0.5 # Slightly higher for more creative strategic thinking
+            temperature=0.5
         )
         return {"response": chat_completion.choices[0].message.content}
     except Exception as e:
@@ -225,7 +225,7 @@ def create_pdf_report(report_title, report_text, _charts=None):
     return {"data": pdf.output(dest='S').encode('latin-1')}
 
 
-# --- Streamlit UI ---
+
 
 with st.sidebar:
     st.image("picg.jpg", width=100)
@@ -238,7 +238,7 @@ with st.sidebar:
 
 st.header(f"📊 {page}")
 
-# --- Page 1: Standard Dashboard ---
+
 if page == "Standard Dashboard":
     st.info("Upload your data to see a detailed, multi-tab analysis of your business.")
     uploaded_file = st.file_uploader("Choose a file for the Standard Dashboard", type=["csv", "xlsx"], key="uploader_std")
@@ -336,7 +336,7 @@ if page == "Standard Dashboard":
         except Exception as e:
             st.error(f"An error occurred: {e}")
 
-# --- Page 2: AI-Driven Analysis ---
+
 elif page == "AI-Driven Analysis":
     st.info("Let our AI Data Analyst perform a comprehensive, exploratory analysis of your data and generate a unique report.")
     uploaded_file_ai = st.file_uploader("Choose a file for the AI Analyst", type=["csv", "xlsx"], key="uploader_ai")
@@ -364,12 +364,12 @@ elif page == "AI-Driven Analysis":
         if "error" in ai_result:
             st.error(ai_result["error"])
         else:
-            # ### THIS IS THE FIX ###
-            # We extract the text string from the dictionary before using it.
+          
+            
             report_text = ai_result["response"]
             
             charts_for_pdf = {}
-            # (The logic for parsing and displaying charts remains the same)
+            
             last_index = 0
             code_matches = list(re.finditer(r"```python\n(.*?)```", report_text, re.DOTALL))
             for i, match in enumerate(code_matches):
@@ -392,7 +392,7 @@ elif page == "AI-Driven Analysis":
             
             st.markdown("---")
             st.subheader("Download Report")
-            # The 'report_text' variable is now guaranteed to be a string
+            
             pdf_result = create_pdf_report("AI-Driven Analysis Report", report_text, charts_for_pdf)
             if "error" in pdf_result:
                 st.error(pdf_result["error"])
@@ -404,7 +404,7 @@ elif page == "AI-Driven Analysis":
                     mime="application/pdf"
                 )
 
-# --- Page 3: Report Analysis ---
+
 elif page == "Future Strategy Report":
     st.info("Upload your historical data to let our AI Business Strategist provide a forward-looking report with predictions and growth opportunities.")
     uploaded_file_future = st.file_uploader("Choose a file for the Future Strategy Report", type=["csv", "xlsx"], key="uploader_future")
