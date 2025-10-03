@@ -19,6 +19,17 @@ st.set_page_config(
     layout="wide"
 )
 
+with st.sidebar:
+    st.markdown("### 📂 Sample Dataset")
+
+    sample_file_path = "data/balanced_data.xlsx"
+    with open(sample_file_path, "rb") as f:
+        st.download_button(
+            label="Download Sample Excel",
+            data=f,
+            file_name="sample_retail_data.xlsx",
+            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        )
 
 
 COLUMN_ALIASES = {
